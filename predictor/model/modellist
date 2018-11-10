@@ -1,0 +1,6 @@
+task1 accusation
+       256 1000 k=2
+task2 articles
+       256 1000 k=3 
+task3 imprisonment
+		128 1000

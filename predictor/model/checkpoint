@@ -1,0 +1,6 @@
+model_checkpoint_path: "/data2/wwy/Law/src/textCNN/hzh/textCNN/runs/1530972380/checkpoints/model-4600"
+all_model_checkpoint_paths: "/data2/wwy/Law/src/textCNN/hzh/textCNN/runs/1530972380/checkpoints/model-4200"
+all_model_checkpoint_paths: "/data2/wwy/Law/src/textCNN/hzh/textCNN/runs/1530972380/checkpoints/model-4300"
+all_model_checkpoint_paths: "/data2/wwy/Law/src/textCNN/hzh/textCNN/runs/1530972380/checkpoints/model-4400"
+all_model_checkpoint_paths: "/data2/wwy/Law/src/textCNN/hzh/textCNN/runs/1530972380/checkpoints/model-4500"
+all_model_checkpoint_paths: "/data2/wwy/Law/src/textCNN/hzh/textCNN/runs/1530972380/checkpoints/model-4600"
